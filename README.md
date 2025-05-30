@@ -1,2 +1,2 @@
 # Amazon_Clone
-Created this amazon replica from HTML and CSS code.
+Created this amazon replica in HTML and CSS code.
